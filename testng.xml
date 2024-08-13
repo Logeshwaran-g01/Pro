@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/pjai0/IdeaProjects/Selenium_1/src/test/java/Project_Sel/datePicker.java"><classes><class name="Project_Sel.datePicker"><methods><include name="test1"/></methods></class></classes></test></suite>
